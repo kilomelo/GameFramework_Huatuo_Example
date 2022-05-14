@@ -1,0 +1,22 @@
+{
+    "name": "HuatuoEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:78bd6c5edf2afed4f854427d2e3519a4",
+        "GUID:343deaaf83e0cee4ca978e7df0b80d21",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:8fdf0d05cee4f1041b457c7d9cb46f4a",
+        "GUID:0a0471484b079be408cb3a0d7fe94736"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

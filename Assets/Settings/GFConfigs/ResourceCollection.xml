@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <ResourceCollection>
+    <Resources>
+      <Resource Name="App" LoadType="0" Packed="False" />
+      <Resource Name="HotfixAsm" LoadType="0" Packed="False" />
+    </Resources>
+    <Assets>
+      <Asset Guid="843ee34f1d99b214c8a2df5d944ae23f" ResourceName="HotfixAsm" />
+      <Asset Guid="8efba4009972dff439a6f1f4d2ef5eb2" ResourceName="HotfixAsm" />
+      <Asset Guid="bf69f18ad6c5d9e41b6cd84f12fd1e66" ResourceName="App" />
+    </Assets>
+  </ResourceCollection>
+</UnityGameFramework>

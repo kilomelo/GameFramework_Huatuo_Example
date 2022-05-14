@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <BuildSettings>
+    <DefaultScenes>
+      <DefaultScene Path="Assets/Res/Resources/Scenes/Entrance.unity" />
+    </DefaultScenes>
+    <SearchScenePaths>
+      <SearchScenePath Path="Assets/Res/Resources/Scenes" />
+      <SearchScenePath Path="Assets/Res/ResHotfix/Scenes" />
+    </SearchScenePaths>
+  </BuildSettings>
+</UnityGameFramework>

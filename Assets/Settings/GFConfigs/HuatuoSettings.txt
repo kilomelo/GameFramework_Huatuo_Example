@@ -1,0 +1,5 @@
+[UnityGameFramework.HuatuoSettings]
+# BuildTargetGroups use Huatuo hotfix feature.
+DynamicAssemblyPlatforms = 146
+# Run as mono in editor mode if huatuo enabled on current build target.
+HuatuoEditorMode = true
