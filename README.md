@@ -1,0 +1,2 @@
+# GameFramework_Huatuo_Example
+Huatuo接入GameFramework的AB工作流，并完善了相关编辑器工具。
